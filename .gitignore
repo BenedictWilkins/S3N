@@ -1,0 +1,11 @@
+*
+!*.py
+!*.ipynb
+!.gitignore
+!readme.md
+!.gitkeep
+!*/
+
+/runs/
+.ipynb_checkpoints/
+
