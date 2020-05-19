@@ -1,6 +1,6 @@
 # S3N
 
-This repository contains supporting code for our paper [Anomaly Detection in Video Games](https://github.com/BenedictWilkinsAI/S3N). All of the models used in experiment can be found [here](https://www.kaggle.com/benedictwilkinsai/s3n-pretrained-models), see the starter kernel for how to load them without dependancies.
+This repository contains supporting code for our paper [Anomaly Detection in Video Games](https://github.com/BenedictWilkinsAI/S3N). All of the models used in experiments can be found [here](https://www.kaggle.com/benedictwilkinsai/s3n-pretrained-models), see the starter kernel for how to load them without dependancies.
 
 ## Atari Anomaly Dataset (AAD)
 
