@@ -1,6 +1,6 @@
 # S3N
 
-This repository contains supporting code for our paper [Anomaly Detection in Video Games](https://github.com/BenedictWilkinsAI/S3N). All of the models used in experiments can be found [here](https://www.kaggle.com/benedictwilkinsai/s3n-pretrained-models) along with an interactive demonstration (does not require dependancies and is run online). Models are written in [pytorch](https://pytorch.org/).
+This repository contains supporting code for our paper [Anomaly Detection in Video Games](https://github.com/BenedictWilkinsAI/S3N). All of the models used in experiments can be found [here](https://www.kaggle.com/benedictwilkinsai/s3n-pretrained-models) along with an **interactive demonstration** (does not require dependancies and is run online). Models are written in [pytorch](https://pytorch.org/).
 
 The `atari-anomaly.ipynb` file is the main file used to train and visualise some aspects of the models.
 
