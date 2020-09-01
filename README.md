@@ -5,7 +5,6 @@ This repository contains supporting code for our paper [A Metric Learning Approa
 The `atari-anomaly.ipynb` file is the main file used to train and visualise some aspects of the models.
 
 This repo requires some github dependancies, to avoid backward compatibility issues it is best to use the particular commits given.
-For convenience the install script `install.sh` will install all of the correct dependancies, navigate to an empty directory and create a python virtual environment before running the script - `sudo ./install.sh`. 
 
 * **pyworld**
 ```
@@ -22,8 +21,6 @@ git checkout -b <branch> 11f02ca42c375fc9c39875ba072541c1d8bf9bea
 git clone -n git@github.com:BenedictWilkinsAI/pydatasets.git
 git checkout -b <branch> a9a6fe479361844b57fe662768a6489353ac86b8
 ```
-
-
 
 ## Atari Anomaly Dataset (AAD)
 
