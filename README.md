@@ -9,17 +9,17 @@ This repo requires some github dependancies, to avoid backward compatibility iss
 * **pyworld**
 ```
 git clone -n git@github.com:BenedictWilkinsAI/pyworld-rl.git
-git checkout -b <branch> a15675e9b8fa333312e73e751bb737fd4649d3b5
+git checkout -b master a15675e9b8fa333312e73e751bb737fd4649d3b5
 ```
 * **anomapy**
 ```
 git clone -n git@github.com:BenedictWilkinsAI/anomapy.git
-git checkout -b <branch> 11f02ca42c375fc9c39875ba072541c1d8bf9bea
+git checkout -b master 11f02ca42c375fc9c39875ba072541c1d8bf9bea
 ```
 * **dataset**
 ```
 git clone -n git@github.com:BenedictWilkinsAI/pydatasets.git
-git checkout -b <branch> a9a6fe479361844b57fe662768a6489353ac86b8
+git checkout -b master a9a6fe479361844b57fe662768a6489353ac86b8
 ```
 
 ## Atari Anomaly Dataset (AAD)
